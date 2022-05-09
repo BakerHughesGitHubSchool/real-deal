@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Welcome to Karl's World! 2
+Welcome to Karl's World! 2 4
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
